@@ -1,8 +1,7 @@
 # grpc-puzzle-kweekend-2021
-A gRPC server has been deployed to GCP on below host address and port. Given the address and proto file in this repo, figure out the FinalSecret!
+A gRPC server has been deployed to GCP on below host address and port. Given the address and proto file in this repo, figure out the secret PIN code to open the treasure chest!
 
-host = grpc-puzzle-pvufxpciqa-lz.a.run.app
-
+host = grpc-puzzle-kweekend-2021-pvufxpciqa-lz.a.run.app
 port = 443
 
 To get started faster, seek inspiration in these example gRPC projects:
